@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **C, C++, ASM, Verilog.**
+- 🌱 I’m currently learning **C, C++, ASM (RISC-V, x86_64), Verilog.**
 
 - 🌐 Follow me on [https://www.linkedin.com/in/rodrigo-cobaleda/](https://www.linkedin.com/in/rodrigo-cobaleda/)
 
